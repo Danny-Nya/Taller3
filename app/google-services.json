@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652092552843",
+    "project_id": "tallerlogin-19a50",
+    "storage_bucket": "tallerlogin-19a50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652092552843:android:1ef4db51356b213449468e",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652092552843-uc5rssjss33qfjol3fgsenivv06fhaic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWXhXytppbY7tlkza-MGE9KhLE08Ynp0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652092552843-uc5rssjss33qfjol3fgsenivv06fhaic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

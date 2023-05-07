@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Log in</string>
+    <string name="register">Register</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="id">ID</string>
+    <string name="available">Available</string>
+    <string name="google_maps_key">AIzaSyBfUfwlU3e-09HGEGsdt1mSg9juN2dszTA</string>
+</resources>
